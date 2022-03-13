@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xteeheee
-- 👀 I’m interested in data visualation
+- 👀 I’m interested in data visualization
 - 🌱 I’m currently learning to conduct data analysis
 
 <!---
